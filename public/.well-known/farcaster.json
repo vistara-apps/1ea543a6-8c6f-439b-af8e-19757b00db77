@@ -10,7 +10,7 @@
     "iconUrl": "https://provenancetrace.farcaster.xyz/icon.png",
     "splashImageUrl": "https://provenancetrace.farcaster.xyz/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "homeUrl": "https://provenancetrace.farcaster.xyz",
-    "webhookUrl": "https://api.provenancetrace.farcaster.xyz/webhook"
+    "homeUrl": "https://app-7b00db77-4izv.vercel.app",
+    "webhookUrl": "https://app-7b00db77-4izv.vercel.app/api/webhook"
   }
 }
